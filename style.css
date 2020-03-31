@@ -1,31 +1,31 @@
     tr, td, th
     {
-			border:1px solid black;
-			height: 20px;
-			font-size: 20px
-		  }
+	border:1px solid black;
+	height: 20px;
+	font-size: 20px
+	}
     p
     {
-			font-size: 20px;
-		  }
-		li
+	font-size: 20px;
+	}
+    li
     {
-			font-size:20px;
-		  }
+	font-size:20px;
+	}
     body
     {
-      background-color:#ffd09d
-      }
+      	background-color:#ffd09d
+      	}
     h1
     {
-      background-color:white; 
-      font-size:72px; 
-      margin-top:10px; 
-      padding: 20p;
-      }
+      	background-color:white; 
+      	font-size:72px; 
+      	margin-top:10px; 
+      	padding: 20p;
+      	}
     table
     {
-      width:500px;
-      border:1px solid black
-    }
+      	width:500px;
+      	border:1px solid black
+   	}
     
